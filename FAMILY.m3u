@@ -106,16 +106,14 @@ http://181.176.172.66:9000/play/a039
 #EXTINF:0,TV PERU
 http://38.43.151.206:8000/play/a066
 #EXTINF:0,TV PERU INT
-#EXTGRP: PERU
 http://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 #EXTINF:0,MOVISTAR PLUS
 http://38.43.151.206:8000/play/a06b
 #EXTINF:0,MOVISTAR PLUS 1
 http://38.43.151.206:8000/play/a06b
-#EXTINF:0, NATIVA HD 
-#EXTGRP: PERU
+#EXTINF:0,NATIVA HD 
 http://servilive.com:3449/live/mlecaroslive.m3u8
-#EXTINF:0, NATIVA HD 1
+#EXTINF:0,NATIVA HD 1
 http://190.119.123.220:4000/play/nativa/index.m3u8
 #EXTINF:0,GLOBAL
 http://38.43.151.206:8000/play/a06d
@@ -195,26 +193,14 @@ http://novared.pro:8080/120323.122323.231203./NrsjEuCkzAgy/330781
 http://home-playtv.com:8080/CarlosAL/HBGWY/158454
 #EXTINF:-1,TyC Sports HD 1
 http://38.41.8.1:8000/play/a02i
-#EXTINF:-1,CANAL 4 PAN
-http://45.5.117.182:8000/play/a0iq/index.m3u8
 #EXTINF:-1,UNIVISION 
 http://moontools.me:8080/aleX674c5/soliZ35/1707505
 #EXTINF:-1,UNIVISION 2
 http://moontools.me:8080/aleX674c5/soliZ35/1707504
 #EXTINF:-1,TUDN
 http://moontools.me:8080/aleX674c5/soliZ35/1707506
-#EXTINF:-1,TUDN 1.1
-http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/190697
-#EXTINF:-1,CANAL 13 HD
-http://tvlatino.club:2082/IPTV05/fBHc7t5yLRXh/147753
-#EXTINF:-1,CHV HD 1.1
-http://home-playtv.com:8080/CarlosAL/HBGWY/77116
 #EXTINF:-1,CHV HD
 http://45.71.252.16:8000/play/a0ib
-#EXTINF:0,CARACOL HD
-http://home-playtv.com:8080/CarlosAL/HBGWY/46257
-#EXTINF:-1,Caracol HD 2
-http://home-playtv.com:8080/CarlosAL/HBGWY/190520
 #EXTINF:-1,DSPORTS 1
 http://moontools.me:8080/aleX674c5/soliZ35/1707520
 #EXTINF:-1,D SPORTS 1.1
