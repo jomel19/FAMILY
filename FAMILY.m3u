@@ -67,7 +67,7 @@ http://38.41.8.1:8000/play/a06j
 http://45.71.254.1:8000/play/a08h/index.m3u8
 #EXTINF:-1,GOLPERU HD
 #EXTGRP:DEPORTES
-http://38.41.8.1:8000/play/a0s3
+http://38.41.8.1:8000/play/a0u8
 #EXTINF:-1,RHEMATV
 #EXTGRP:unsorted
 http://181.78.105.146:6060/play/a04k
@@ -100,9 +100,10 @@ http://200.60.124.19:29000/play/a07k/index.m3u8
 http://disfruta.net:80/1020384/NnAQhsFApU/18429
 #EXTINF:-1,L1 MÁXIMO 1.3
 #EXTGRP:DEPORTES
-http://maxcuentas.pro:8080/live/useradjw/VGKTH/469158.ts
+http://138.99.179.229:8000/play/a0ol/index.m3u8
 #EXTINF:-1,DSPORTS PE TV 1.1
 #EXTGRP:DEPORTES
+http://200.59.188.3:8000/play/a0xe
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2194369
 #EXTINF:-1,DSPORTS PE 2.1
 #EXTGRP:DEPORTES
@@ -112,7 +113,7 @@ http://200.59.188.3:8000/play/a0xf
 http://maxcuentas.pro:8080/live/useradjw/VGKTH/518959.ts
 #EXTINF:-1,GOLPERU HD 3
 #EXTGRP:DEPORTES
-http://209.45.52.14:8000/play/a191/index.m3u8
+http://138.99.179.229:8000/play/a0lf/index.m3u8
 #EXTINF:-1,Latina HD 1
 #EXTGRP:PERU
 http://190.83.60.34:1414/play/a0bb/index.m3u8
