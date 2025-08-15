@@ -1,352 +1,526 @@
 #EXTM3U
 #EXTINF:-1 group-title="-",A&E HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0ir/index.m3u8
-#EXTINF:-1 group-title="-",AMC HD
+#EXTINF:-1,AMC HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0j2/index.m3u8
-#EXTINF:-1 group-title="-",ASTROS HD
+#EXTINF:-1,ASTROS HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0pd/index.m3u8
-#EXTINF:-1 group-title="-",ATRES SERIES
+#EXTINF:-1,ATRES SERIES
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0ny/index.m3u8
-#EXTINF:-1 group-title="-",ATRES SERIES HD
+#EXTINF:-1,ATRES SERIES HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0rn/index.m3u8
-#EXTINF:-1 group-title="PERÚ",ATV (respaldo)
+#EXTINF:-1,ATV (respaldo)
+#EXTGRP:PERU
 http://138.99.179.229:8000/play/a0jk/index.m3u8
-#EXTINF:-1 group-title="PERÚ",ATV HD
+#EXTINF:-1,ATV HD
+#EXTGRP:PERU
 http://138.99.179.229:8000/play/a0p8/index.m3u8
-#EXTINF:-1 group-title="PERÚ",ATV Sur HD
+#EXTINF:-1,ATV Sur HD
+#EXTGRP:PERU
 http://138.99.179.229:8000/play/a0pj/index.m3u8
-#EXTINF:-1 group-title="PERÚ",ATV+ HD
+#EXTINF:-1,ATV+ HD
+#EXTGRP:PERU
 http://138.99.179.229:8000/play/a0p9/index.m3u8
-#EXTINF:-1 group-title="-",AXN HD
+#EXTINF:-1,AXN HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0qu/index.m3u8
-#EXTINF:-1 group-title="-",Adult Swim
+#EXTINF:-1,Adult Swim
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0jm/index.m3u8
-#EXTINF:-1 group-title="PERÚ",America TV HD
+#EXTINF:-1,America TV HD
+#EXTGRP:PERU
 http://138.99.179.229:8000/play/a0ke/index.m3u8
-#EXTINF:-1 group-title="PERÚ",AmericaTV HD
+#EXTINF:-1,AmericaTV HD
+#EXTGRP:PERU
 http://138.99.179.229:8000/play/a0pf/index.m3u8
-#EXTINF:-1 group-title="-",Animal Planet HD
+#EXTINF:-1,Animal Planet HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0qq/index.m3u8
-#EXTINF:-1 group-title="-",CHV HD
+#EXTINF:-1,CHV HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0ib/index.m3u8
-#EXTINF:-1 group-title="-",Canal 13 HD
+#EXTINF:-1,Canal 13 HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0qk/index.m3u8
-#EXTINF:-1 group-title="-",Canal 24 Horas HD
+#EXTINF:-1,Canal 24 Horas HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0k8/index.m3u8
-#EXTINF:-1 group-title="PERÚ",Canal N
+#EXTINF:-1,Canal N
+#EXTGRP:PERU
 http://138.99.179.229:8000/play/a0ld/index.m3u8
-#EXTINF:-1 group-title="-",Caracol HD
+#EXTINF:-1,Caracol HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0l7/index.m3u8
-#EXTINF:-1 group-title="-",Cartoon Network HD
+#EXTINF:-1,Cartoon Network HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0rf/index.m3u8
-#EXTINF:-1 group-title="-",Cartoonito
+#EXTINF:-1,Cartoonito
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0jt/index.m3u8
-#EXTINF:-1 group-title="-",Cinecanal HD
+#EXTINF:-1,Cinecanal HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0qs/index.m3u8
-#EXTINF:-1 group-title="-",Cinemax
+#EXTINF:-1,Cinemax
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0py/index.m3u8
-#EXTINF:-1 group-title="-",Cinemax HD
+#EXTINF:-1,Cinemax HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0jf/index.m3u8
-#EXTINF:-1 group-title="-",Clover
+#EXTINF:-1,Clover
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0mz/index.m3u8
-#EXTINF:-1 group-title="-",Comedy Central HD
+#EXTINF:-1,Comedy Central HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0is/index.m3u8
-#EXTINF:-1 group-title="-",DHE HD
+#EXTINF:-1,DHE HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0rk/index.m3u8
-#EXTINF:-1 group-title="-",DHE HD
+#EXTINF:-1,DHE HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0q7/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",DSPORTS HD
+#EXTINF:-1,DSPORTS HD
+#EXTGRP:DEPORTES
 http://138.99.179.229:8000/play/a0se/index.m3u8
-#EXTINF:-1 group-title="-",Direct - DW
+#EXTINF:-1,Direct - DW
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a099/index.m3u8
-#EXTINF:-1 group-title="-",Direct - EWTN
+#EXTINF:-1,Direct - EWTN
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0ml/index.m3u8
-#EXTINF:-1 group-title="-",Direct-Bolivia TV
+#EXTINF:-1,Direct-Bolivia TV
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a09u/index.m3u8
-#EXTINF:-1 group-title="-",Direct-France 24
+#EXTINF:-1,Direct-France 24
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0mk/index.m3u8
-#EXTINF:-1 group-title="PERÚ",Direct-Nativa
+#EXTINF:-1,Direct-Nativa
+#EXTGRP:PERU
 http://138.99.179.229:8000/play/a0mh/index.m3u8
-#EXTINF:-1 group-title="-",Direct-RT
+#EXTINF:-1,Direct-RT
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0bf/index.m3u8
-#EXTINF:-1 group-title="-",Discovery Channel  HD
+#EXTINF:-1,Discovery Channel  HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0qr/index.m3u8
-#EXTINF:-1 group-title="-",Discovery H&H HD
+#EXTINF:-1,Discovery H&H HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0rd/index.m3u8
-#EXTINF:-1 group-title="-",Discovery HD
+#EXTINF:-1,Discovery HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0m2/index.m3u8
-#EXTINF:-1 group-title="-",Discovery Kids HD
+#EXTINF:-1,Discovery Kids HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0re/index.m3u8
-#EXTINF:-1 group-title="-",Discovery Science
+#EXTINF:-1,Discovery Science
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0jv/index.m3u8
-#EXTINF:-1 group-title="-",Discovery Theater HD
+#EXTINF:-1,Discovery Theater HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0po/index.m3u8
-#EXTINF:-1 group-title="-",Discovery World HD
+#EXTINF:-1,Discovery World HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0qm/index.m3u8
-#EXTINF:-1 group-title="-",Disney HD
+#EXTINF:-1,Disney HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0r5/index.m3u8
-#EXTINF:-1 group-title="-",Disney Junior
+#EXTINF:-1,Disney Junior
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0jd/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 2
+#EXTINF:-1,ESPN 2
+#EXTGRP:DEPORTES
 http://138.99.179.229:8000/play/a0rc/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 3 HD
+#EXTINF:-1,ESPN 3 HD
+#EXTGRP:DEPORTES
 http://138.99.179.229:8000/play/a0qo/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 4HD
+#EXTINF:-1,ESPN 4HD
+#EXTGRP:DEPORTES
 http://138.99.179.229:8000/play/a0qw/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 5HD
+#EXTINF:-1,ESPN 5HD
+#EXTGRP:DEPORTES
 http://138.99.179.229:8000/play/a0ql/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 6HD
+#EXTINF:-1,ESPN 6HD
+#EXTGRP:DEPORTES
 http://138.99.179.229:8000/play/a0nk/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN 7HD
+#EXTINF:-1,ESPN 7HD
+#EXTGRP:DEPORTES
 http://138.99.179.229:8000/play/a0no/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN HD
+#EXTINF:-1,ESPN HD
+#EXTGRP:DEPORTES
 http://138.99.179.229:8000/play/a0o0/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN HD
+#EXTINF:-1,ESPN HD
+#EXTGRP:DEPORTES
 http://138.99.179.229:8000/play/a0qv/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN HD (alternativo)
+#EXTINF:-1,ESPN HD (alternativo)
+#EXTGRP:DEPORTES
 http://138.99.179.229:8000/play/a0pr/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",ESPN Premium HD
+#EXTINF:-1,ESPN Premium HD
+#EXTGRP:DEPORTES
 http://138.99.179.229:8000/play/a0o1/index.m3u8
-#EXTINF:-1 group-title="-",El Gourmet HD
+#EXTINF:-1,El Gourmet HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0it/index.m3u8
-#EXTINF:-1 group-title="-",FC-De Pelicula
+#EXTINF:-1,FC-De Pelicula
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a09v/index.m3u8
-#EXTINF:-1 group-title="-",FC-E!
+#EXTINF:-1,FC-E!
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0bh/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",FC-ESPN 2 HD
+#EXTINF:-1,FC-ESPN 2 HD
+#EXTGRP:DEPORTES
 http://138.99.179.229:8000/play/a0ax/index.m3u8
-#EXTINF:-1 group-title="-",FC-FOOD NETWORK HD
+#EXTINF:-1,FC-FOOD NETWORK HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0az/index.m3u8
-#EXTINF:-1 group-title="-",FC-Kanal d Drama
+#EXTINF:-1,FC-Kanal d Drama
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0sa/index.m3u8
-#EXTINF:-1 group-title="-",FC-Love Nature HD
+#EXTINF:-1,FC-Love Nature HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0sb/index.m3u8
-#EXTINF:-1 group-title="-",FC-PASIONES
+#EXTINF:-1,FC-PASIONES
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0ba/index.m3u8
-#EXTINF:-1 group-title="-",FC-Sun Channel HD
+#EXTINF:-1,FC-Sun Channel HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0me/index.m3u8
-#EXTINF:-1 group-title="-",FC-TLC HD
+#EXTINF:-1,FC-TLC HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0sc/index.m3u8
-#EXTINF:-1 group-title="-",FC-TLC HD out
+#EXTINF:-1,FC-TLC HD out
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0sd/index.m3u8
-#EXTINF:-1 group-title="-",FC-Universal tv
+#EXTINF:-1,FC-Universal tv
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0r7/index.m3u8
-#EXTINF:-1 group-title="-",FC-Univision
+#EXTINF:-1,FC-Univision
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a09x/index.m3u8
-#EXTINF:-1 group-title="-",FX HD
+#EXTINF:-1,FX HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0i2/index.m3u8
-#EXTINF:-1 group-title="-",Film&Arts
+#EXTINF:-1,Film&Arts
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0jy/index.m3u8
-#EXTINF:-1 group-title="-",Food Network HD
+#EXTINF:-1,Food Network HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0kd/index.m3u8
-#EXTINF:-1 group-title="PERÚ",GLOBAL
+#EXTINF:-1,GLOBAL
+#EXTGRP:PERU
 http://138.99.179.229:8000/play/a0mb/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",GOLPERU
+#EXTINF:-1,GOLPERU
+#EXTGRP:PERU
 http://138.99.179.229:8000/play/a0lf/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",Gol TV
+#EXTINF:-1,Gol TV
+#EXTGRP:DEPORTES
 http://138.99.179.229:8000/play/a0p1/index.m3u8
-#EXTINF:-1 group-title="-",Golden HD
+#EXTINF:-1,Golden HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0s8/index.m3u8
-#EXTINF:-1 group-title="-",HBO 2
+#EXTINF:-1,HBO 2
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0k2/index.m3u8
-#EXTINF:-1 group-title="-",HBO Family HD
+#EXTINF:-1,HBO Family HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0o2/index.m3u8
-#EXTINF:-1 group-title="-",HBO HD
+#EXTINF:-1,HBO HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0j3/index.m3u8
-#EXTINF:-1 group-title="-",HBO MUNDI
+#EXTINF:-1,HBO MUNDI
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0pn/index.m3u8
-#EXTINF:-1 group-title="-",HBO POP HD
+#EXTINF:-1,HBO POP HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0pq/index.m3u8
-#EXTINF:-1 group-title="-",HBO POP HD (alternativo)
+#EXTINF:-1 ,HBO POP HD (alternativo)
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0ly/index.m3u8
-#EXTINF:-1 group-title="-",HBO Plus
+#EXTINF:-1,HBO Plus
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0k1/index.m3u8
-#EXTINF:-1 group-title="-",HBO Signature
+#EXTINF:-1,HBO Signature
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0pm/index.m3u8
-#EXTINF:-1 group-title="-",HBO XTREME
+#EXTINF:-1,HBO XTREME
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0sk/index.m3u8
-#EXTINF:-1 group-title="-",HBO XTREME HD
+#EXTINF:-1,HBO XTREME HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0q8/index.m3u8
-#EXTINF:-1 group-title="-",HEI HD
+#EXTINF:-1,HEI HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0qa/index.m3u8
-#EXTINF:-1 group-title="-",HOLA TV HD
+#EXTINF:-1,HOLA TV HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0rl/index.m3u8
-#EXTINF:-1 group-title="-",HTV
+#EXTINF:-1,HTV
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0k0/index.m3u8
-#EXTINF:-1 group-title="-",History 2
+#EXTINF:-1,History 2
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0ju/index.m3u8
-#EXTINF:-1 group-title="-",History Channel HD
+#EXTINF:-1,History Channel HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0qd/index.m3u8
-#EXTINF:-1 group-title="-",Hola TV
+#EXTINF:-1,Hola TV
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0rh/index.m3u8
-#EXTINF:-1 group-title="-",ID HD
+#EXTINF:-1,ID HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0rg/index.m3u8
-#EXTINF:-1 group-title="-",ID HD
+#EXTINF:-1,ID HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0qi/index.m3u8
-#EXTINF:-1 group-title="PERÚ",IN-RYO- Karibeña
+#EXTINF:-1,IN-RYO- Karibeña
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0b0/index.m3u8
-#EXTINF:-1 group-title="PERÚ",IN-Ryo - ATV SUR
+#EXTINF:-1,IN-Ryo - ATV SUR
+#EXTGRP:PERU
 http://138.99.179.229:8000/play/a0op/index.m3u8
-#EXTINF:-1 group-title="PERÚ",IN-Ryo - Exitosa HD
+#EXTINF:-1,IN-Ryo - Exitosa HD
+#EXTGRP:PERU
 http://138.99.179.229:8000/play/a0of/index.m3u8
-#EXTINF:-1 group-title="PERÚ",IN-Ryo - Panamericana HD
+#EXTINF:-1,IN-Ryo - Panamericana HD
+#EXTGRP:PERU
 http://138.99.179.229:8000/play/a08u/index.m3u8
-#EXTINF:-1 group-title="PERÚ",IN-Ryo - RPP HD
+#EXTINF:-1,IN-Ryo - RPP HD
+#EXTGRP:PERU
 http://138.99.179.229:8000/play/a0oj/index.m3u8
-#EXTINF:-1 group-title="PERÚ",IN-Ryo - Tv Peru HD
+#EXTINF:-1,IN-Ryo - Tv Peru HD
+#EXTGRP:PERU
 http://138.99.179.229:8000/play/a0og/index.m3u8
-#EXTINF:-1 group-title="PERÚ",IN-Ryo - global
+#EXTINF:-1,IN-Ryo - global
+#EXTGRP:PERU
 http://138.99.179.229:8000/play/a0oi/index.m3u8
-#EXTINF:-1 group-title="PERÚ",IN-Ryo -USMP TV
+#EXTINF:-1,IN-Ryo -USMP TV
+#EXTGRP:PERU
 http://138.99.179.229:8000/play/a0r8/index.m3u8
-#EXTINF:-1 group-title="PERÚ",IN-Ryo Liga 1 Max
+#EXTINF:-1,IN-Ryo Liga 1 Max
+#EXTGRP:PERU
 http://138.99.179.229:8000/play/a0ol/index.m3u8
-#EXTINF:-1 group-title="PERÚ",IN-ryo - Willax
+#EXTINF:-1,IN-ryo - Willax
+#EXTGRP:PERU
 http://138.99.179.229:8000/play/a09b/index.m3u8
-#EXTINF:-1 group-title="PERÚ",IN-ryo - atv+
+#EXTINF:-1,IN-ryo - atv+
+#EXTGRP:PERU
 http://138.99.179.229:8000/play/a0s4/index.m3u8
-#EXTINF:-1 group-title="-",IN-xt- Radio Uno
+#EXTINF:-1,IN-xt- Radio Uno
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0bk/index.m3u8
-#EXTINF:-1 group-title="-",Kanal D Drama
+#EXTINF:-1,Kanal D Drama
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0mc/index.m3u8
-#EXTINF:-1 group-title="-",LA TELE
+#EXTINF:-1,LA TELE
+#EXTGRP:PERU
 http://138.99.179.229:8000/play/a0q2/index.m3u8
-#EXTINF:-1 group-title="-",La Red HD
+#EXTINF:-1,La Red HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0k7/index.m3u8
-#EXTINF:-1 group-title="-",Las Estrellas HD
+#EXTINF:-1,Las Estrellas HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0nw/index.m3u8
-#EXTINF:-1 group-title="PERÚ",Latina HD
+#EXTINF:-1,Latina HD
+#EXTGRP:PERU
 http://138.99.179.229:8000/play/a0ki/index.m3u8
-#EXTINF:-1 group-title="PERÚ",Latina HD
+#EXTINF:-1,Latina HD
+#EXTGRP:PERU
 http://138.99.179.229:8000/play/a0pb/index.m3u8
-#EXTINF:-1 group-title="-",Love Nature
+#EXTINF:-1,Love Nature
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0le/index.m3u8
-#EXTINF:-1 group-title="-",MEGA HD
+#EXTINF:-1,MEGA HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0ij/index.m3u8
-#EXTINF:-1 group-title="PERÚ",Movistar Deportes
+#EXTINF:-1,Movistar Deportes
+#EXTGRP:PERU
 http://138.99.179.229:8000/play/a0lc/index.m3u8
-#EXTINF:-1 group-title="-",Nat Geo HD
+#EXTINF:-1,Nat Geo HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0iu/index.m3u8
-#EXTINF:-1 group-title="-",Nat Geo HD
+#EXTINF:-1,Nat Geo HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0qe/index.m3u8
-#EXTINF:-1 group-title="-",Nick HD
+#EXTINF:-1,Nick HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0if/index.m3u8
-#EXTINF:-1 group-title="PERÚ",OUT-ryo - Exitosa HD
+#EXTINF:-1,OUT-ryo - Exitosa HD
+#EXTGRP:PERU
 http://138.99.179.229:8000/play/a0or/index.m3u8
-#EXTINF:-1 group-title="PERÚ",OUT-ryo - GLOBAL HD
+#EXTINF:-1,OUT-ryo - GLOBAL HD
+#EXTGRP:PERU
 http://138.99.179.229:8000/play/a0oq/index.m3u8
-#EXTINF:-1 group-title="-",OUT-ryo - Gourmet
+#EXTINF:-1,OUT-ryo - Gourmet
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0rb/index.m3u8
-#EXTINF:-1 group-title="-",OUT-ryo - Karibenia
+#EXTINF:-1,OUT-ryo - Karibenia
+#EXTGRP:PERU
 http://138.99.179.229:8000/play/a0ou/index.m3u8
-#EXTINF:-1 group-title="PERÚ",OUT-ryo - Liga 1 Max
+#EXTINF:-1,OUT-ryo - Liga 1 Max
+#EXTGRP:PERU
 http://138.99.179.229:8000/play/a0oo/index.m3u8
-#EXTINF:-1 group-title="PERÚ",OUT-ryo - RPP HD
+#EXTINF:-1,OUT-ryo - RPP HD
+#EXTGRP:PERU
 http://138.99.179.229:8000/play/a0ok/index.m3u8
-#EXTINF:-1 group-title="PERÚ",OUT-ryo - Tv Peru HD
+#EXTINF:-1,OUT-ryo - Tv Peru HD
+#EXTGRP:PERU
 http://138.99.179.229:8000/play/a0oh/index.m3u8
-#EXTINF:-1 group-title="PERÚ",OUT-xt - Bethel HD
+#EXTINF:-1,OUT-xt - Bethel HD
+#EXTGRP:PERU
 http://138.99.179.229:8000/play/a0mm/index.m3u8
-#EXTINF:-1 group-title="-",OUT-xt - Distrito Comedia
+#EXTINF:-1,OUT-xt - Distrito Comedia
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a09e/index.m3u8
-#EXTINF:-1 group-title="-",OUT-xt - PASIONES
+#EXTINF:-1,OUT-xt - PASIONES
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0s6/index.m3u8
-#EXTINF:-1 group-title="PERÚ",OUT-xt - PBO HD
+#EXTINF:-1,OUT-xt - PBO HD
+#EXTGRP:PERU
 http://138.99.179.229:8000/play/a0mf/index.m3u8
-#EXTINF:-1 group-title="-",OUT-xt -TV ONE
+#EXTINF:-1,OUT-xt -TV ONE
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0mn/index.m3u8
-#EXTINF:-1 group-title="PERÚ",OUT-xt -Telelima
+#EXTINF:-1,OUT-xt -Telelima
+#EXTGRP:PERU
 http://138.99.179.229:8000/play/a0oy/index.m3u8
-#EXTINF:-1 group-title="PERÚ",OUT-xt -panamericana
+#EXTINF:-1,OUT-xt -panamericana
+#EXTGRP:PERU
 http://138.99.179.229:8000/play/a0q4/index.m3u8
-#EXTINF:-1 group-title="-",OUT-xt -tvo
+#EXTINF:-1,OUT-xt -tvo
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0sj/index.m3u8
-#EXTINF:-1 group-title="PERÚ",OUT-xt -tvo HD
+#EXTINF:-1,OUT-xt -tvo HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0r9/index.m3u8
-#EXTINF:-1 group-title="PERÚ",OUT-xt -wilaxx
+#EXTINF:-1,OUT-xt -wilax
+#EXTGRP:PERU
 http://138.99.179.229:8000/play/a0s3/index.m3u8
-#EXTINF:-1 group-title="PERÚ",PANAMERICANA HD
+#EXTINF:-1,PANAMERICANA HD
+#EXTGRP:PERU
 http://138.99.179.229:8000/play/a0pi/index.m3u8
-#EXTINF:-1 group-title="PERÚ",Panamericana SD
+#EXTINF:-1,Panamericana SD
+#EXTGRP:PERU
 http://138.99.179.229:8000/play/a0ji/index.m3u8
-#EXTINF:-1 group-title="-",Paramount HD
+#EXTINF:-1,Paramount HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0in/index.m3u8
-#EXTINF:-1 group-title="-",Pasiones HD
+#EXTINF:-1,Pasiones HD
+#EXTGRP:PERU
 http://138.99.179.229:8000/play/a0q6/index.m3u8
-#EXTINF:-1 group-title="-",Plim Plim TV
+#EXTINF:-1,Plim Plim TV
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0r6/index.m3u8
-#EXTINF:-1 group-title="-",RCN HD
+#EXTINF:-1,RCN HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0l6/index.m3u8
-#EXTINF:-1 group-title="PERÚ",RPP
+#EXTINF:-1,RPP
+#EXTGRP:PERU
 http://138.99.179.229:8000/play/a0jl/index.m3u8
-#EXTINF:-1 group-title="-",STAR CHANNEL HD
+#EXTINF:-1,STAR CHANNEL HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0qp/index.m3u8
-#EXTINF:-1 group-title="-",Sony HD
+#EXTINF:-1,Sony HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0qg/index.m3u8
-#EXTINF:-1 group-title="-",Space HD
+#EXTINF:-1,Space HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0qj/index.m3u8
-#EXTINF:-1 group-title="-",Studio Universal HD
+#EXTINF:-1,Studio Universal HD
+#EXTGRP:PERU
 http://138.99.179.229:8000/play/a0qy/index.m3u8
-#EXTINF:-1 group-title="-",Studio Universal HD no activar
+#EXTINF:-1,Studio Universal HD no activar
+#EXTGRP:PERU
 http://138.99.179.229:8000/play/a0kc/index.m3u8
-#EXTINF:-1 group-title="-",Sun Channel HD
+#EXTINF:-1,Sun Channel HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0q9/index.m3u8
-#EXTINF:-1 group-title="-",TNT HD
+#EXTINF:-1,TNT HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0qf/index.m3u8
-#EXTINF:-1 group-title="-",TNT Novelas HD
+#EXTINF:-1,TNT Novelas HD
+#EXTGRP:PERU
 http://138.99.179.229:8000/play/a0r2/index.m3u8
-#EXTINF:-1 group-title="-",TNT Series HD
+#EXTINF:-1,TNT Series HD
+#EXTGRP:PERU
 http://138.99.179.229:8000/play/a0r1/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",TNT Sports Premiun HD
+#EXTINF:-1,TNT Sports Premiun HD
+#EXTGRP:DEPORTES
 http://138.99.179.229:8000/play/a0ps/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",TNT Sports Premiun HD
+#EXTINF:-1,TNT Sports Premiun HD
+#EXTGRP:DEPORTES
 http://138.99.179.229:8000/play/a0id/index.m3u8
-#EXTINF:-1 group-title="PERÚ",TV PERU (alter)
+#EXTINF:-1,TV PERU (alter)
+#EXTGRP:PERU
 http://138.99.179.229:8000/play/a0ms/index.m3u8
-#EXTINF:-1 group-title="-",TV+ HD
+#EXTINF:-1,TV+ HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0p2/index.m3u8
-#EXTINF:-1 group-title="-",TVN HD
+#EXTINF:-1,TVN HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0p3/index.m3u8
-#EXTINF:-1 group-title="PERÚ",TVPeru HD
+#EXTINF:-1,TVPeru HD
+#EXTGRP:PERU
 http://138.99.179.229:8000/play/a0p7/index.m3u8
-#EXTINF:-1 group-title="PERÚ",TVPeruMovil
+#EXTINF:-1,TVPeruMovil
+#EXTGRP:PERU
 http://138.99.179.229:8000/play/a0pu/index.m3u8
-#EXTINF:-1 group-title="-",Telemundo
+#EXTINF:-1,Telemundo
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0jw/index.m3u8
-#EXTINF:-1 group-title="-",Telenovelas
+#EXTINF:-1,Telenovelas
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0jz/index.m3u8
-#EXTINF:-1 group-title="-",Tooncast
+#EXTINF:-1,Tooncast
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0jx/index.m3u8
-#EXTINF:-1 group-title="-",UNIVERSAL CHANNEL HD
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0r0/index.m3u8
-#EXTINF:-1 group-title="-",UNIVERSAL CHANNEL HD
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0ri/index.m3u8
-#EXTINF:-1 group-title="-",Warner Channel HD
+#EXTINF:-1,Warner Channel HD
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0qh/index.m3u8
-#EXTINF:-1 group-title="-",Zona Latina
+#EXTINF:-1,Zona Latina
+#EXTGRP:INTER
 http://138.99.179.229:8000/play/a0my/index.m3u8
-#EXTINF:-1 group-title="PERÚ",L1 MAX HD 1
-http://disfruta.net:80/1020384/NnAQhsFApU/18429
-#EXTINF:-1 group-title="PERÚ",CRISTIANA TV
+#EXTINF:-1,CRISTIANA TV
+#EXTGRP:PERU
 http://stmv2.voxtvhd.com.br/cristianatv/cristianatv/playlist.m3u8
-#EXTINF:-1 group-title="PERÚ",SUBLIME GRACIA
+#EXTINF:-1,SUBLIME GRACIA
+#EXTGRP:PERU
 https://5f700d5b2c46f.streamlock.net:443/sublime/sublime/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="PERÚ",OVACIÓN
+#EXTINF:-1,OVACIÓN
+#EXTGRP:PERU
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1 group-title="PERÚ",NATIVA TV HD
+#EXTINF:-1,NATIVA TV HD
+#EXTGRP:PERU
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8 
-#EXTINF:-1 group-title="PERÚ",SOL TV
+#EXTINF:-1,SOL TV
+#EXTGRP:PERU
 https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8 
-#EXTINF:-1 group-title="PERÚ" L1 MAX HD 1.1
+#EXTINF:-1,L1 MAX HD 1
+#EXTGRP:PERU
+http://disfruta.net:80/1020384/NnAQhsFApU/18429
+#EXTINF:-1,L1 MAX HD 1.1
+#EXTGRP:PERU
 http://tv.nube-x.xyz:8080/live/CristianGomez2/S7EorAhnYE/967.ts
-#EXTINF:-1 group-title="PERÚ" L1 MAX HD 1.2
+#EXTINF:-1,L1 MAX HD 1.2
+#EXTGRP:PERU
 http://tv.nube-x.xyz:8080/live/CristianGomez2/S7EorAhnYE/968.ts
-#EXTINF:-1 group-title="PERÚ" L1 MAX HD 1.3
+#EXTINF:-1,L1 MAX HD 1.3
+#EXTGRP:PERU
 http://tv.nube-x.xyz:8080/live/CristianGomez2/S7EorAhnYE/121003.ts
-#EXTINF:-1 group-title="PERÚ" L1 HD
+#EXTINF:-1,L1 HD
+#EXTGRP:PERU
 http://tv.nube-x.xyz:8080/live/CristianGomez2/S7EorAhnYE/120997.ts
-#EXTINF:-1 group-title="PERÚ" L1 HD 1
+#EXTINF:-1,L1 HD 1
+#EXTGRP:PERU
 http://xpaneltv.com:8080/live/AndyTor/648210977/287811.ts
-#EXTINF:-1 group-title="PERÚ" L1 HD 1.1
+#EXTINF:-1,L1 HD 1.1
+#EXTGRP:PERU
 http://etvhome.com:25461/live/Carina582/582Carina/280973.ts
-
