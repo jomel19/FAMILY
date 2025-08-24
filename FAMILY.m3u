@@ -212,9 +212,18 @@ http://138.99.179.229:8000/play/a0kd/index.m3u8
 #EXTINF:-1,GLOBAL
 #EXTGRP:PERU
 http://138.99.179.229:8000/play/a0mb/index.m3u8
-#EXTINF:-1,GOLPERU
+#EXTINF:-1,GOLPERU FHD
+#EXTGRP:PERU
+http://181.176.153.107:8090/play/a1av/index.m3u8
+#EXTINF:-1,GOLPERU HD
 #EXTGRP:PERU
 http://138.99.179.229:8000/play/a0lf/index.m3u8
+#EXTINF:-1,GOLPERU 1
+#EXTGRP:PERU
+http://200.60.124.19:29000/play/a0mg/index.m3u8
+#EXTINF:-1,GOLPERU 1.1
+#EXTGRP:PERU
+http://45.71.254.1:8000/play/a08h/index.m3u8
 #EXTINF:-1,Gol TV
 #EXTGRP:DEPORTES
 http://138.99.179.229:8000/play/a0p1/index.m3u8
@@ -530,3 +539,4 @@ http://xpaneltv.com:8080/live/AndyTor/648210977/287811.ts
 #EXTINF:-1,L1 HD 1.1
 #EXTGRP:L1 MAX
 http://etvhome.com:25461/live/Carina582/582Carina/280973.ts
+
