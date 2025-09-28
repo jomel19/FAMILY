@@ -539,4 +539,8 @@ http://xpaneltv.com:8080/live/AndyTor/648210977/287811.ts
 #EXTINF:-1,L1 HD 1.1
 #EXTGRP:L1 MAX
 http://etvhome.com:25461/live/Carina582/582Carina/280973.ts
+#EXTINF:-1,L1 HD 1.1 FULL
+#EXTGRP:L1 MAX
+http://200.127.135.5:5000/Peru/a00c/index.m3u8
+
 
