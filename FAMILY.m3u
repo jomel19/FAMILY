@@ -37,10 +37,18 @@ http://8.243.126.131:8000/play/a04o/index.m3u8
 http://8.243.126.131:8000/play/a058/index.m3u8
 #EXTINF:0,68-LIGA 1 MAX HD
 http://8.243.126.131:8000/play/a063/index.m3u8
+#EXTINF:0,68-LIGA 1 MAX HDD
+http://148.222.230.144:8000/play/a0do/index.m3u8
 #EXTINF:0,38-MOVISTAR DEPORTES
-http://8.243.126.131:8000/play/a059/index.m3u8
+http://8.243.126.131:8000/play/a052/index.m3u8
+#EXTINF:0,38-MOVISTAR DEPORTES HD
+http://190.117.20.39:8000/play/a0ay/index.m3u8
 #EXTINF:0,39-DIRECTV DEPORTE
 http://8.243.126.131:8000/play/a05a/index.m3u8
+#EXTINF:0,39-DIRECTV DEPORTE 2
+http://redworld.pro:8880/live/Melisa01/W5wXFMwknDcC/428667.ts
+#EXTINF:0,39-DIRECTV DEPORTE +
+http://redworld.pro:8880/live/Melisa01/W5wXFMwknDcC/428668.ts
 #EXTINF:0,16-IPE HD
 http://8.243.126.131:8000/play/a04p/index.m3u8
 #EXTINF:0,17-KARIBENA HD
@@ -85,8 +93,12 @@ http://8.243.126.131:8000/play/a0d2/index.m3u8
 http://8.243.126.131:8000/play/a0kr/index.m3u8
 #EXTINF:0,ESPN Premium HD
 http://8.243.126.131:8000/play/a0ku/index.m3u8
+#EXTINF:0,ESPN Premium HDD
+http://148.222.230.144:8000/play/espp/index.m3u8
 #EXTINF:0,55-ESPN1
 http://8.243.126.131:8000/play/a05q/index.m3u8
+#EXTINF:0,55-ESPN
+http://190.117.20.39:8000/play/a05v/index.m3u8
 #EXTINF:0,48-ESPN2 HD
 http://8.243.126.131:8000/play/a05j/index.m3u8
 #EXTINF:0,24-ESPN 3 HD
